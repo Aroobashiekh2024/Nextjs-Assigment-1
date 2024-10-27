@@ -1,0 +1,17 @@
+.service{
+      background-color: rgb(103, 199, 205);
+      padding-left: 460px;
+    margin: 20px;
+    font-size: larger;
+    font-style: italic;
+}
+.p{
+      background-color: rgb(172, 231, 231);
+      font-style: unset;
+}
+.myservices{
+      background-color: #94dea9;
+      padding-left: 10ox;
+      margin-top: 10px;
+      width: 70px;
+}

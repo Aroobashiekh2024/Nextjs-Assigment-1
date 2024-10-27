@@ -1,0 +1,27 @@
+.heading{
+    background-color: rgb(200, 214, 160);
+    padding-left: 460px;
+    margin: 20px;
+    font-size: larger;
+    
+}
+.about{
+    background-color: rgb(237, 80, 169);
+    margin: 10px;
+    width: 50px;
+    
+}
+.contact{
+    background-color: rgb(133, 210, 230);
+    margin: 10px;
+    width: 70px;
+ ;
+}
+.service{
+    background-color:  rgb(61, 145, 151);
+    margin: 10px;
+    width: 60px;
+}
+.p{
+    background-color:rgb(218, 224, 199); ;
+}
